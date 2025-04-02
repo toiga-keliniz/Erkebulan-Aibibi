@@ -1,0 +1,140 @@
+Uri: http://invi-studio.kz/maratsabina1
+File Name: C:\Downloaded Web Sites\invi-studio.kz\maratsabina1-1.htm
+Content Type: text/html
+
+Uri: https://dl.dropboxusercontent.com/scl/fi/btgbmy43d5dqxke0smhfe/qurmash-makhan-zan-syrym-aiaulym_gYjcXe33.mp3?rlkey=fy7aps6658z0nmwaifhk9q1lx&st=eakv4utt&dl=0
+File Name: C:\Downloaded Web Sites\invi-studio.kz\scl\fi\btgbmy43d5dqxke0smhfe\qurmash-makhan-zan-syrym-aiaulym_gYjcXe33.mp3
+Content Type: audio/mpeg
+
+Uri: https://invi-studio.kz/maratsabina1
+File Name: C:\Downloaded Web Sites\invi-studio.kz\maratsabina1.htm
+Content Type: text/html
+
+Uri: https://neo.tildacdn.com/js/tilda-fallback-1.0.min.js
+File Name: C:\Downloaded Web Sites\invi-studio.kz\js\tilda-fallback-1.0.min.js
+Content Type: application/javascript
+
+Uri: https://static.tildacdn.com/tild3137-3334-4639-b331-306137623038/Miama_Nueva_kz.woff
+File Name: C:\Downloaded Web Sites\invi-studio.kz\tild3137-3334-4639-b331-306137623038\Miama_Nueva_kz.woff
+Content Type: font/woff
+
+Uri: https://static.tildacdn.com/tild3430-6566-4439-b763-333663613132/Ventura-Script.woff
+File Name: C:\Downloaded Web Sites\invi-studio.kz\tild3430-6566-4439-b763-333663613132\Ventura-Script.woff
+Content Type: font/woff
+
+Uri: https://static.tildacdn.com/tild3431-3434-4734-b836-613163633466/KZ_RomulC.woff
+File Name: C:\Downloaded Web Sites\invi-studio.kz\tild3431-3434-4734-b836-613163633466\KZ_RomulC.woff
+Content Type: font/woff
+
+Uri: https://static.tildacdn.com/tild3561-3336-4636-b437-316138326639/FontsFree-Net-saint-.woff
+File Name: C:\Downloaded Web Sites\invi-studio.kz\tild3561-3336-4636-b437-316138326639\FontsFree-Net-saint-.woff
+Content Type: font/woff
+
+Uri: https://static.tildacdn.com/tild3937-3432-4331-a235-363362633866/vAsylm02.woff
+File Name: C:\Downloaded Web Sites\invi-studio.kz\tild3937-3432-4331-a235-363362633866\vAsylm02.woff
+Content Type: font/woff
+
+Uri: https://static.tildacdn.com/tild6331-3931-4732-b931-313839613235/KZPFChampionScriptPr.woff
+File Name: C:\Downloaded Web Sites\invi-studio.kz\tild6331-3931-4732-b931-313839613235\KZPFChampionScriptPr.woff
+Content Type: font/woff
+
+Uri: https://static.tildacdn.com/tild6461-6538-4562-b034-313938353039/BKANTKZ.woff
+File Name: C:\Downloaded Web Sites\invi-studio.kz\tild6461-6538-4562-b034-313938353039\BKANTKZ.woff
+Content Type: font/woff
+
+Uri: https://static.tildacdn.com/tild6538-6163-4864-a630-376461306434/KZCorinthia-_1_.woff
+File Name: C:\Downloaded Web Sites\invi-studio.kz\tild6538-6163-4864-a630-376461306434\KZCorinthia-_1_.woff
+Content Type: application/octet-stream
+
+Uri: https://static.tildacdn.pro/css/highlight.min.css
+File Name: C:\Downloaded Web Sites\invi-studio.kz\css\highlight.min.css
+Content Type: text/css
+
+Uri: https://static.tildacdn.pro/css/tilda-animation-2.0.min.css
+File Name: C:\Downloaded Web Sites\invi-studio.kz\css\tilda-animation-2.0.min.css
+Content Type: text/css
+
+Uri: https://static.tildacdn.pro/css/tilda-cover-1.0.min.css
+File Name: C:\Downloaded Web Sites\invi-studio.kz\css\tilda-cover-1.0.min.css
+Content Type: text/css
+
+Uri: https://static.tildacdn.pro/css/tilda-forms-1.0.min.css
+File Name: C:\Downloaded Web Sites\invi-studio.kz\css\tilda-forms-1.0.min.css
+Content Type: text/css
+
+Uri: https://static.tildacdn.pro/css/tilda-grid-3.0.min.css
+File Name: C:\Downloaded Web Sites\invi-studio.kz\css\tilda-grid-3.0.min.css
+Content Type: text/css
+
+Uri: https://static.tildacdn.pro/img/tildacopy.png
+File Name: C:\Downloaded Web Sites\invi-studio.kz\img\tildacopy.png
+Content Type: image/png
+
+Uri: https://static.tildacdn.pro/img/tildafavicon.ico
+File Name: C:\Downloaded Web Sites\invi-studio.kz\img\tildafavicon.ico
+Content Type: image/x-icon
+
+Uri: https://static.tildacdn.pro/js/highlight.min.js
+File Name: C:\Downloaded Web Sites\invi-studio.kz\js\highlight.min.js
+Content Type: application/javascript
+
+Uri: https://static.tildacdn.pro/js/jquery-1.10.2.min.js
+File Name: C:\Downloaded Web Sites\invi-studio.kz\js\jquery-1.10.2.min.js
+Content Type: application/javascript
+
+Uri: https://static.tildacdn.pro/js/tilda-animation-2.0.min.js
+File Name: C:\Downloaded Web Sites\invi-studio.kz\js\tilda-animation-2.0.min.js
+Content Type: application/javascript
+
+Uri: https://static.tildacdn.pro/js/tilda-animation-ext-1.0.min.js
+File Name: C:\Downloaded Web Sites\invi-studio.kz\js\tilda-animation-ext-1.0.min.js
+Content Type: application/javascript
+
+Uri: https://static.tildacdn.pro/js/tilda-animation-sbs-1.0.min.js
+File Name: C:\Downloaded Web Sites\invi-studio.kz\js\tilda-animation-sbs-1.0.min.js
+Content Type: application/javascript
+
+Uri: https://static.tildacdn.pro/js/tilda-cover-1.0.min.js
+File Name: C:\Downloaded Web Sites\invi-studio.kz\js\tilda-cover-1.0.min.js
+Content Type: application/javascript
+
+Uri: https://static.tildacdn.pro/js/tilda-events-1.0.min.js
+File Name: C:\Downloaded Web Sites\invi-studio.kz\js\tilda-events-1.0.min.js
+Content Type: application/javascript
+
+Uri: https://static.tildacdn.pro/js/tilda-forms-1.0.min.js
+File Name: C:\Downloaded Web Sites\invi-studio.kz\js\tilda-forms-1.0.min.js
+Content Type: application/javascript
+
+Uri: https://static.tildacdn.pro/js/tilda-lazyload-1.0.min.js
+File Name: C:\Downloaded Web Sites\invi-studio.kz\js\tilda-lazyload-1.0.min.js
+Content Type: application/javascript
+
+Uri: https://static.tildacdn.pro/js/tilda-polyfill-1.0.min.js
+File Name: C:\Downloaded Web Sites\invi-studio.kz\js\tilda-polyfill-1.0.min.js
+Content Type: application/javascript
+
+Uri: https://static.tildacdn.pro/js/tilda-scripts-3.0.min.js
+File Name: C:\Downloaded Web Sites\invi-studio.kz\js\tilda-scripts-3.0.min.js
+Content Type: application/javascript
+
+Uri: https://static.tildacdn.pro/js/tilda-zero-1.1.min.js
+File Name: C:\Downloaded Web Sites\invi-studio.kz\js\tilda-zero-1.1.min.js
+Content Type: application/javascript
+
+Uri: https://static.tildacdn.pro/js/tilda-zero-scale-1.0.min.js
+File Name: C:\Downloaded Web Sites\invi-studio.kz\js\tilda-zero-scale-1.0.min.js
+Content Type: application/javascript
+
+Uri: https://static.tildacdn.pro/ws/project6489859/tilda-blocks-page47971645.min.css?t=1718881974
+File Name: C:\Downloaded Web Sites\invi-studio.kz\ws\project6489859\tilda-blocks-page47971645.min.css
+Content Type: text/css
+
+Uri: https://static.tildacdn.pro/ws/project6489859/tilda-blocks-page47971645.min.js?t=1718881974
+File Name: C:\Downloaded Web Sites\invi-studio.kz\ws\project6489859\tilda-blocks-page47971645.min.js
+Content Type: application/javascript
+
+Uri: https://thb.tildacdn.pro/tild6165-3330-4331-b963-346634626164/-/resize/20x/IMG_7322.JPG
+File Name: C:\Downloaded Web Sites\invi-studio.kz\tild6165-3330-4331-b963-346634626164\-\resize\20x\IMG_7322.JPG
+Content Type: image/jpeg
+
